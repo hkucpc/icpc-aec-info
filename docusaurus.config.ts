@@ -69,12 +69,6 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Tutorial',
-        },
-        {
           href: 'https://github.com/hkucpc/icpc-aec-info',
           label: 'GitHub',
           position: 'right',
